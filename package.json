@@ -22,7 +22,7 @@
   "devDependencies": {
     "eslint": "^5.12.1",
     "raw-loader": "^0.5.1",
-    "webpack": "^3.4.1",
+    "webpack": "^5.75.0",
     "webpack-dev-server": "^2.11.3"
   },
   "dependencies": {
